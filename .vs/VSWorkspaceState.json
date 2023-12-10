@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\LogisApp",
+    "\\LogisApp\\LogisApp",
+    "\\LogisApp\\LogisApp\\Controllers",
+    "\\LogisApp\\LogisApp\\Data",
+    "\\LogisApp\\LogisApp\\Models",
+    "\\LogisApp\\LogisApp\\Views",
+    "\\LogisApp\\LogisApp\\Views\\Home",
+    "\\LogisApp\\LogisApp\\Views\\Service",
+    "\\LogisApp\\LogisApp\\Views\\Shared"
+  ],
+  "SelectedNode": "\\LogisApp\\LogisApp\\Views\\Home\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}
